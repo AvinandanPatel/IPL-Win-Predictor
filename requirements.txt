@@ -1,8 +1,6 @@
-numpy
+streamlit
+scikit-learn
 pandas
+numpy
 matplotlib
 seaborn
-streamlit
-torch
-torchvision
-scikit-learn
